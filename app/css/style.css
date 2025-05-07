@@ -91,3 +91,11 @@
     border-color: var(--color-gray-200, currentColor);
   }
 }
+
+.movie-card-transition {
+  transition: all 0.3s ease-in-out;
+}
+
+iframe {
+  transition: opacity 0.3s ease-in-out;
+}
