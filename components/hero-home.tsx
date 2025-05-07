@@ -21,8 +21,7 @@ export default function HeroHome() {
                 data-aos="fade-up"
                 data-aos-delay={200}
               >
-                Let's find the perfect movie for tonight's entertainment. Explore our curated selection 
-                of films perfect for a cozy movie night.
+                Pick a Movie and we are going to watch it together. and yes i have alot of free time.
               </p>
             </div>
           </div>

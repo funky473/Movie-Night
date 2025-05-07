@@ -78,7 +78,7 @@ export default function Workflows() {
               Choose One to Watch Tonight
             </h2>
             <p className="text-lg text-indigo-200/65">
-              Select from our curated collection of perfect date night movies
+              Select a movie and let me know when you're ready to start. I'll be waiting for you.
             </p>
           </div>
 
